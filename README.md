@@ -4,11 +4,11 @@ Files for visualizing data scraped from the Fossil Sites Wikipedia page in a Das
 This project makes use of 'pipenv' for easier management of python packages.
 
 ## Install
-'''
+```
 git clone git@github.com:TheMorick/Visualization-Fossil-Sites.git
 cd visualization-fossil-sites
 pipenv install
-'''
+```
 
 ## Run
 Load the environment:
